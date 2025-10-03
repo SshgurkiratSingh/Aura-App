@@ -1,0 +1,20 @@
+{
+  "id": "podcast-20251003T163403Z-0f52d4d2",
+  "date": "2025-10-03T16:37:26.945745",
+  "length_seconds": 240,
+  "sections": [
+    "Weather",
+    "Air Quality",
+    "Commute",
+    "Calendar",
+    "News",
+    "Lifestyle",
+    "Recap"
+  ],
+  "voices": [
+    "Zephyr",
+    "Puck"
+  ],
+  "audio_format": "wav",
+  "questions_count": 45
+}

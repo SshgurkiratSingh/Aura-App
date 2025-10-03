@@ -1,0 +1,122 @@
+[
+  {
+    "id": "q1_1",
+    "timestamp": "00:00",
+    "question": "What is the current humidity level in Kharar and how does it affect the perceived temperature?"
+  },
+  {
+    "id": "q1_2",
+    "timestamp": "00:00",
+    "question": "What weather conditions are being reported for Kharar in today's daily briefing?"
+  },
+  {
+    "id": "q1_3",
+    "timestamp": "00:00",
+    "question": "What other topics besides weather will be covered in this daily briefing podcast?"
+  },
+  {
+    "id": "q2_1",
+    "timestamp": "00:20",
+    "question": "What precautions should someone with asthma take when the air quality index reaches 95 (moderate level)?"
+  },
+  {
+    "id": "q2_2",
+    "timestamp": "00:20",
+    "question": "Is a UV index of 6 considered safe for extended outdoor activities, and what protective measures are recommended?"
+  },
+  {
+    "id": "q2_3",
+    "timestamp": "00:20",
+    "question": "How do moderate air quality conditions specifically affect people with respiratory conditions like asthma?"
+  },
+  {
+    "id": "q3_1",
+    "timestamp": "00:40",
+    "question": "What precautions should individuals take if they experience discomfort due to air quality, and how effective are masks or staying indoors in such situations?"
+  },
+  {
+    "id": "q3_2",
+    "timestamp": "00:40",
+    "question": "Are there any reliable sources or apps for real-time traffic updates for the IT Park area in Chandigarh, and how can commuters access this information?"
+  },
+  {
+    "id": "q3_3",
+    "timestamp": "00:40",
+    "question": "What general advice would you give to commuters in Chandigarh during peak hours or festive seasons to avoid traffic congestion and ensure a smoother journey?"
+  },
+  {
+    "id": "q4_1",
+    "timestamp": "01:00",
+    "question": "What steps should you take to prepare for the VLSI Design Review meeting today?"
+  },
+  {
+    "id": "q4_2",
+    "timestamp": "01:00",
+    "question": "How does parking availability impact your ability to arrive on time for your scheduled meetings?"
+  },
+  {
+    "id": "q4_3",
+    "timestamp": "01:00",
+    "question": "What are the key objectives and expected outcomes of a VLSI Design Review in your work schedule?"
+  },
+  {
+    "id": "q5_1",
+    "timestamp": "01:20",
+    "question": "What are the key objectives and expected outcomes for the PCB Layout Meeting scheduled at 2:00 PM?"
+  },
+  {
+    "id": "q5_2",
+    "timestamp": "01:20",
+    "question": "How can recent advancements in large language models (LLMs), as highlighted in the latest AI Index Report, inform our discussion during the LLM Research Discussion at 5:00 PM[1]?"
+  },
+  {
+    "id": "q5_3",
+    "timestamp": "01:20",
+    "question": "Are there any significant news updates today related to AI developments, compliance, or technology investments that should be prioritized or discussed during your meetings[2]?"
+  },
+  {
+    "id": "q6_1",
+    "timestamp": "01:40",
+    "question": "How does vitamin D deficiency impact overall health and focus throughout the day?"
+  },
+  {
+    "id": "q6_2",
+    "timestamp": "01:40",
+    "question": "What lifestyle changes can help manage or prevent vitamin D deficiency?"
+  },
+  {
+    "id": "q6_3",
+    "timestamp": "01:40",
+    "question": "How can dietary adjustments and supplements effectively address vitamin D deficiency symptoms?"
+  },
+  {
+    "id": "q7_1",
+    "timestamp": "02:00",
+    "question": "What are the potential risks of not taking supplements as prescribed, and how can individuals ensure they stay consistent with their supplement routine?"
+  },
+  {
+    "id": "q7_2",
+    "timestamp": "02:00",
+    "question": "How does moderate humidity affect hydration needs, and what specific strategies can help maintain proper hydration throughout the day?"
+  },
+  {
+    "id": "q7_3",
+    "timestamp": "02:00",
+    "question": "What are some practical ways to incorporate short breaks, stretching, and ergonomic practices into a daily work routine to prevent discomfort or injury?"
+  },
+  {
+    "id": "q8_1",
+    "timestamp": "02:20",
+    "question": "What specific checklist items should be prioritized during the RTL code release design review to ensure timing closure and synthesis quality?"
+  },
+  {
+    "id": "q8_2",
+    "timestamp": "02:20",
+    "question": "How do you verify that all design data remains consistent and fully propagated throughout the VLSI design flow before the review meeting?"
+  },
+  {
+    "id": "q8_3",
+    "timestamp": "02:20",
+    "question": "What are the critical verification steps that must be completed and documented prior to presenting at a chip design milestone review?"
+  }
+]

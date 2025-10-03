@@ -1,0 +1,17 @@
+{
+  "news": {
+    "interests": "Interest news unavailable.",
+    "home_location": "Home location news unavailable.",
+    "work_location": "Work location news unavailable."
+  },
+  "metadata": {
+    "interests": [
+      "LLM",
+      "electronics",
+      "PCB",
+      "VLSI"
+    ],
+    "home_location": "Kharar, Punjab, India",
+    "work_location": "IT Park, Chandigarh, India"
+  }
+}

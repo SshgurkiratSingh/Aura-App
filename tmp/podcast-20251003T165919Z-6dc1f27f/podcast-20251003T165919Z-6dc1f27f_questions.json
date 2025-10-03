@@ -1,0 +1,257 @@
+[
+  {
+    "id": "q1_1",
+    "timestamp": "00:00",
+    "question": "What is the current temperature and humidity in Boston this morning?"
+  },
+  {
+    "id": "q1_2",
+    "timestamp": "00:00",
+    "question": "How might steady rain affect daily plans in Boston today?"
+  },
+  {
+    "id": "q1_3",
+    "timestamp": "00:00",
+    "question": "Why is it recommended to keep an umbrella handy for today\u2019s weather?"
+  },
+  {
+    "id": "q2_1",
+    "timestamp": "00:20",
+    "question": "What precautions should drivers take due to slick roads from rain?"
+  },
+  {
+    "id": "q2_2",
+    "timestamp": "00:20",
+    "question": "How does the air quality index of 40 impact people with respiratory sensitivities?"
+  },
+  {
+    "id": "q2_3",
+    "timestamp": "00:20",
+    "question": "Why is extra caution advised for those heading out early today?"
+  },
+  {
+    "id": "q3_1",
+    "timestamp": "00:40",
+    "question": "What are the benefits of wearing a light mask during rainy spells in urban areas?"
+  },
+  {
+    "id": "q3_2",
+    "timestamp": "00:40",
+    "question": "How can low-level urban pollution accumulate during rainy weather?"
+  },
+  {
+    "id": "q3_3",
+    "timestamp": "00:40",
+    "question": "What should commuters consider when traveling from home to Massachusetts General Hospital today?"
+  },
+  {
+    "id": "q4_1",
+    "timestamp": "01:00",
+    "question": "How might wet roads and reduced visibility affect morning traffic?"
+  },
+  {
+    "id": "q4_2",
+    "timestamp": "01:00",
+    "question": "What steps can drivers take to secure parking near the hospital?"
+  },
+  {
+    "id": "q4_3",
+    "timestamp": "01:00",
+    "question": "Why is it important to allow extra time for possible public transit delays today?"
+  },
+  {
+    "id": "q5_1",
+    "timestamp": "01:20",
+    "question": "Which hospital departments are reporting full capacity today?"
+  },
+  {
+    "id": "q5_2",
+    "timestamp": "01:20",
+    "question": "What are the key appointments and meetings on today\u2019s calendar?"
+  },
+  {
+    "id": "q5_3",
+    "timestamp": "01:20",
+    "question": "How can clinicians prepare for a department meeting discussing clinical trial updates?"
+  },
+  {
+    "id": "q6_1",
+    "timestamp": "01:40",
+    "question": "Why is it important to schedule a midday break during a packed workday?"
+  },
+  {
+    "id": "q6_2",
+    "timestamp": "01:40",
+    "question": "How can administrative tasks be delegated to maintain focus on patient care?"
+  },
+  {
+    "id": "q6_3",
+    "timestamp": "01:40",
+    "question": "What recent overnight news event occurred in Boston?"
+  },
+  {
+    "id": "q7_1",
+    "timestamp": "02:00",
+    "question": "What concerns have arisen in the neighborhood following the recent shooting?"
+  },
+  {
+    "id": "q7_2",
+    "timestamp": "02:00",
+    "question": "How are residents responding to the hospitalization of a police officer?"
+  },
+  {
+    "id": "q7_3",
+    "timestamp": "02:00",
+    "question": "What impact might a potential shutdown have on the local community?"
+  },
+  {
+    "id": "q8_1",
+    "timestamp": "02:20",
+    "question": "Why did Boston City Council recognize October 1 as Nigerian Independence Day?"
+  },
+  {
+    "id": "q8_2",
+    "timestamp": "02:20",
+    "question": "What is the significance of the Fall-o-Ween Children\u2019s Festival announced by Mayor Wu?"
+  },
+  {
+    "id": "q8_3",
+    "timestamp": "02:20",
+    "question": "How will the city\u2019s $1 million award help address air pollution projects?"
+  },
+  {
+    "id": "q9_1",
+    "timestamp": "02:40",
+    "question": "What contamination issues are affecting the Back Bay Fens?"
+  },
+  {
+    "id": "q9_2",
+    "timestamp": "02:40",
+    "question": "Which major cultural events are happening in Boston this October?"
+  },
+  {
+    "id": "q9_3",
+    "timestamp": "02:40",
+    "question": "How is Taylor Swift\u2019s new album release being celebrated in the city?"
+  },
+  {
+    "id": "q10_1",
+    "timestamp": "03:00",
+    "question": "What does Massachusetts General Hospital\u2019s inclusion in the Honor Roll signify?"
+  },
+  {
+    "id": "q10_2",
+    "timestamp": "03:00",
+    "question": "How are organizational changes at Mass General Brigham affecting workers?"
+  },
+  {
+    "id": "q10_3",
+    "timestamp": "03:00",
+    "question": "What notable achievements has MGH accomplished recently?"
+  },
+  {
+    "id": "q11_1",
+    "timestamp": "03:20",
+    "question": "What is xenotransplantation and why is FDA approval for a larger trial significant?"
+  },
+  {
+    "id": "q11_2",
+    "timestamp": "03:20",
+    "question": "Why are primary care doctors at Mass General Brigham filing to unionize?"
+  },
+  {
+    "id": "q11_3",
+    "timestamp": "03:20",
+    "question": "How will changes in network coverage affect Mass General Brigham primary care providers starting January 2026?"
+  },
+  {
+    "id": "q12_1",
+    "timestamp": "03:40",
+    "question": "How will the $18 million awarded by MGH support affordable housing projects?"
+  },
+  {
+    "id": "q12_2",
+    "timestamp": "03:40",
+    "question": "What prompted the review of security protocols near the hospital?"
+  },
+  {
+    "id": "q12_3",
+    "timestamp": "03:40",
+    "question": "How might changes in patient coverage impact care at Mass General Brigham?"
+  },
+  {
+    "id": "q13_1",
+    "timestamp": "04:00",
+    "question": "Why is it important to prevent dehydration during busy clinical shifts?"
+  },
+  {
+    "id": "q13_2",
+    "timestamp": "04:00",
+    "question": "How can ergonomic adjustments support health for clinicians?"
+  },
+  {
+    "id": "q13_3",
+    "timestamp": "04:00",
+    "question": "What strategies can be used to incorporate regular movement into a clinical workday?"
+  },
+  {
+    "id": "q14_1",
+    "timestamp": "04:20",
+    "question": "What constitutes a balanced lunch for sustained energy during a busy day?"
+  },
+  {
+    "id": "q14_2",
+    "timestamp": "04:20",
+    "question": "How can nutrient-dense snacks help when time is limited?"
+  },
+  {
+    "id": "q14_3",
+    "timestamp": "04:20",
+    "question": "What is the Pomodoro technique and how does it aid focus?"
+  },
+  {
+    "id": "q15_1",
+    "timestamp": "04:40",
+    "question": "How do short breaks between work intervals help manage cognitive load?"
+  },
+  {
+    "id": "q15_2",
+    "timestamp": "04:40",
+    "question": "What are the key points of today\u2019s recap for Boston residents?"
+  },
+  {
+    "id": "q15_3",
+    "timestamp": "04:40",
+    "question": "Why is it important to stay updated on weather and hospital schedules?"
+  },
+  {
+    "id": "q16_1",
+    "timestamp": "05:00",
+    "question": "How can prioritizing personal health benefit clinicians and patients alike?"
+  },
+  {
+    "id": "q16_2",
+    "timestamp": "05:00",
+    "question": "What is the recommended actionable priority for today\u2019s schedule?"
+  },
+  {
+    "id": "q16_3",
+    "timestamp": "05:00",
+    "question": "How can a mindful break improve performance between meetings?"
+  },
+  {
+    "id": "q17_1",
+    "timestamp": "05:20",
+    "question": "What are the main takeaways from today\u2019s daily briefing?"
+  },
+  {
+    "id": "q17_2",
+    "timestamp": "05:20",
+    "question": "How can listeners apply the advice given throughout the podcast?"
+  },
+  {
+    "id": "q17_3",
+    "timestamp": "05:20",
+    "question": "Why is it important to reflect on daily priorities at the end of the day?"
+  }
+]

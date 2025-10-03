@@ -1,0 +1,242 @@
+[
+  {
+    "id": "q1_1",
+    "timestamp": "00:00",
+    "question": "How does the combination of temperature, humidity, and wind speed in Kharar, Punjab, influence the perceived comfort or \"feels like\" temperature compared to the actual recorded temperature?"
+  },
+  {
+    "id": "q1_2",
+    "timestamp": "00:00",
+    "question": "What impact might the current weather conditions\u2014partly cloudy skies, moderate wind, and specific barometric pressure\u2014have on local agricultural activities or daily life in Kharar?"
+  },
+  {
+    "id": "q1_3",
+    "timestamp": "00:00",
+    "question": "How do meteorological factors such as relative humidity and barometric pressure contribute to the overall weather experience, beyond what is indicated by the temperature alone?"
+  },
+  {
+    "id": "q2_1",
+    "timestamp": "00:20",
+    "question": "How does air quality impact individuals with a history of respiratory issues, and what precautions can they take to minimize exposure?"
+  },
+  {
+    "id": "q2_2",
+    "timestamp": "00:20",
+    "question": "What are the most significant sources of air pollution in urban areas, and how can they be effectively mitigated?"
+  },
+  {
+    "id": "q2_3",
+    "timestamp": "00:20",
+    "question": "How does the UV index relate to air quality, and are there any synergistic health effects when both are considered together?"
+  },
+  {
+    "id": "q3_1",
+    "timestamp": "00:40",
+    "question": "What specific precautions should individuals with asthma take when the AQI is in the \"moderate\" range, and how do these differ from recommendations for the general population?"
+  },
+  {
+    "id": "q3_2",
+    "timestamp": "00:40",
+    "question": "How does exposure to high-traffic areas during peak hours impact asthma symptoms, and what strategies can help minimize risks in these environments?"
+  },
+  {
+    "id": "q3_3",
+    "timestamp": "00:40",
+    "question": "Why is it important for people with respiratory sensitivities to keep a rescue inhaler accessible even when air quality is only moderately compromised?"
+  },
+  {
+    "id": "q4_1",
+    "timestamp": "01:00",
+    "question": "What specific health risks do commuters face due to poor air quality and hazardous road conditions on the Kharar-Landran stretch?"
+  },
+  {
+    "id": "q4_2",
+    "timestamp": "01:00",
+    "question": "How have temporary repairs and ongoing infrastructure projects impacted daily travel and accident rates on the Kharar-Landran road?"
+  },
+  {
+    "id": "q4_3",
+    "timestamp": "01:00",
+    "question": "What measures are local authorities and residents advocating for to address the persistent safety and maintenance issues on the Kharar-Landran road?"
+  },
+  {
+    "id": "q5_1",
+    "timestamp": "01:20",
+    "question": "How can two-wheeler riders best navigate the traffic jams on the Kharar-Chandigarh highway caused by recent Punjab Roadways and PunBus protests?"
+  },
+  {
+    "id": "q5_2",
+    "timestamp": "01:20",
+    "question": "What are the current parking charges and facilities available for two-wheelers at IT Park, Chandigarh?"
+  },
+  {
+    "id": "q5_3",
+    "timestamp": "01:20",
+    "question": "Are there recommended alternate routes or safety tips for two-wheeler riders commuting to IT Park during periods of heavy traffic congestion?"
+  },
+  {
+    "id": "q6_1",
+    "timestamp": "01:40",
+    "question": "How will the new AI-driven smart parking system improve the parking experience for residents and visitors in Chandigarh\u2019s IT Park?"
+  },
+  {
+    "id": "q6_2",
+    "timestamp": "01:40",
+    "question": "What are the expected benefits and challenges of the Chandigarh Housing Board\u2019s shift to low-rise buildings in its rebooted housing scheme?"
+  },
+  {
+    "id": "q6_3",
+    "timestamp": "01:40",
+    "question": "How might restrictions on high-rise construction to protect migratory birds and local wildlife impact urban development and infrastructure planning in Chandigarh?"
+  },
+  {
+    "id": "q7_1",
+    "timestamp": "02:00",
+    "question": "How might the recent regulatory changes affect future development and occupancy policies at IT Park?"
+  },
+  {
+    "id": "q7_2",
+    "timestamp": "02:00",
+    "question": "What considerations should be made to ensure that scheduled meetings, such as the VLSI Design Review and LLM Research Discussion, are not disrupted by potential changes in IT Park operations?"
+  },
+  {
+    "id": "q7_3",
+    "timestamp": "02:00",
+    "question": "What are the current occupancy regulations in place at IT Park, and how do they compare to those in other technology hubs?"
+  },
+  {
+    "id": "q8_1",
+    "timestamp": "02:20",
+    "question": "How can allocating focused work blocks between meetings enhance productivity and efficiency in VLSI-related tasks?"
+  },
+  {
+    "id": "q8_2",
+    "timestamp": "02:20",
+    "question": "What are the benefits of preparing concise agendas for meetings in a professional VLSI environment?"
+  },
+  {
+    "id": "q8_3",
+    "timestamp": "02:20",
+    "question": "Why is the early afternoon considered optimal for deep work on complex VLSI projects?"
+  },
+  {
+    "id": "q9_1",
+    "timestamp": "02:40",
+    "question": "How does RustGPT\u2019s pure Rust implementation impact performance and transparency compared to traditional Python-based LLM frameworks[1][2]?"
+  },
+  {
+    "id": "q9_2",
+    "timestamp": "02:40",
+    "question": "What are the advantages of Switzerland\u2019s open-source multilingual LLM in expanding access to advanced AI models?"
+  },
+  {
+    "id": "q9_3",
+    "timestamp": "02:40",
+    "question": "In what ways are large language models transforming electronics and chip design workflows?"
+  },
+  {
+    "id": "q10_1",
+    "timestamp": "03:00",
+    "question": "How does the integration of AI-driven automation in PCB design impact the efficiency of layout and routing processes?"
+  },
+  {
+    "id": "q10_2",
+    "timestamp": "03:00",
+    "question": "What specific benefits does the Cadence JedAI platform offer in terms of automating design validation and specification reviews for complex PCB and VLSI projects?"
+  },
+  {
+    "id": "q10_3",
+    "timestamp": "03:00",
+    "question": "How do AI-driven tools like those from Cadence influence the reduction of bugs and the overall quality of PCB and VLSI designs?"
+  },
+  {
+    "id": "q11_1",
+    "timestamp": "03:20",
+    "question": "How is TechInsights leveraging high-precision imaging and proprietary software to enhance circuit analysis and reverse engineering in modern semiconductor devices?"
+  },
+  {
+    "id": "q11_2",
+    "timestamp": "03:20",
+    "question": "What are the key challenges and opportunities in thermal modeling for 3D integrated circuits (ICs) as the VLSI sector continues to advance?"
+  },
+  {
+    "id": "q11_3",
+    "timestamp": "03:20",
+    "question": "How might new export controls on EDA tools and strategic partnerships among companies like TSMC and Synopsys impact the global semiconductor supply chain and innovation landscape?"
+  },
+  {
+    "id": "q12_1",
+    "timestamp": "03:40",
+    "question": "What are the key performance differences between GaN and SiC semiconductors in terms of voltage handling, switching frequency, and thermal management capabilities?"
+  },
+  {
+    "id": "q12_2",
+    "timestamp": "03:40",
+    "question": "How do GaN and SiC devices improve efficiency and reduce size in applications like data centers, electric vehicle chargers, and renewable energy systems compared to traditional silicon-based solutions?"
+  },
+  {
+    "id": "q12_3",
+    "timestamp": "03:40",
+    "question": "What are the main application areas where SiC excels versus where GaN is preferred, and how do engineers decide which wide-bandgap semiconductor to use for specific power electronics designs?"
+  },
+  {
+    "id": "q13_1",
+    "timestamp": "04:00",
+    "question": "How does India\u2019s first AI-driven smart parking system in Chandigarh improve urban mobility and what features make it citizen-centric?[1]"
+  },
+  {
+    "id": "q13_2",
+    "timestamp": "04:00",
+    "question": "In what ways does continued investment in the Rajiv Gandhi Chandigarh Technology Park reflect India\u2019s broader commitment to technological growth and urban modernization?"
+  },
+  {
+    "id": "q13_3",
+    "timestamp": "04:00",
+    "question": "What health recommendations are suggested for individuals with a vitamin D deficiency of 17.1 ng/mL, and how might urban lifestyle changes impact such deficiencies?"
+  },
+  {
+    "id": "q14_1",
+    "timestamp": "04:20",
+    "question": "What types of supplements are recommended by physicians to support hydration and overall health during periods of moderate humidity and air quality concerns?"
+  },
+  {
+    "id": "q14_2",
+    "timestamp": "04:20",
+    "question": "How does proper workstation ergonomics contribute to sustained focus and reduce physical strain during long design sessions?"
+  },
+  {
+    "id": "q14_3",
+    "timestamp": "04:20",
+    "question": "What role do balanced meals with lean protein and complex carbohydrates play in maintaining concentration and productivity throughout the workday?"
+  },
+  {
+    "id": "q15_1",
+    "timestamp": "04:40",
+    "question": "How does air pollution exposure during peak hours affect cognitive function and what are the optimal times to go outdoors for mental clarity?"
+  },
+  {
+    "id": "q15_2",
+    "timestamp": "04:40",
+    "question": "What is the relationship between blue light exposure from screens and cognitive performance, and how effective are blue-light filters in maintaining mental acuity?"
+  },
+  {
+    "id": "q15_3",
+    "timestamp": "04:40",
+    "question": "How do regular outdoor breaks and physical movement throughout the day impact working memory and overall cognitive function?"
+  },
+  {
+    "id": "q16_1",
+    "timestamp": "05:00",
+    "question": "How can VLSI design teams effectively structure a targeted agenda for design review meetings to ensure all critical verification and quality issues, such as linting and CDC, are addressed for maximum impact?"
+  },
+  {
+    "id": "q16_2",
+    "timestamp": "05:00",
+    "question": "What strategies should VLSI engineers employ to balance the demands of thorough design review with the need to stay vigilant about environmental factors like moderate air quality that may affect team health and productivity?"
+  },
+  {
+    "id": "q16_3",
+    "timestamp": "05:00",
+    "question": "In what ways can AI-driven tools be integrated into the VLSI design review process to enhance efficiency, accuracy, and the identification of potential defects in architecture specifications?"
+  }
+]

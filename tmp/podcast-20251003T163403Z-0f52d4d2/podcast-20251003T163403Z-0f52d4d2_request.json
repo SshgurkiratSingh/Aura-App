@@ -1,0 +1,19 @@
+{
+  "user_preferences": {
+    "name": "Priya",
+    "tone": "energetic and motivational",
+    "occupation": "Engineering Student"
+  },
+  "weather_info": {
+    "temperature": 28,
+    "humidity": 80,
+    "conditions": "cloudy",
+    "air_quality_index": 120
+  },
+  "home_location": "Pune, India",
+  "work_location": "College of Engineering, Pune",
+  "news": {
+    "error": "News unavailable at this time."
+  },
+  "extra": {}
+}

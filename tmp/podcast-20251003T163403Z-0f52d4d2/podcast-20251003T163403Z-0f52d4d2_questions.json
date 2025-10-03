@@ -1,0 +1,227 @@
+[
+  {
+    "id": "q1_1",
+    "timestamp": "00:00",
+    "question": "How does the current weather in Pune, with high humidity and cloudy skies, affect recommendations for outdoor activities and clothing choices?"
+  },
+  {
+    "id": "q1_2",
+    "timestamp": "00:00",
+    "question": "What is the typical weather pattern for Pune in early October, and how does this year\u2019s forecast compare to previous years?"
+  },
+  {
+    "id": "q1_3",
+    "timestamp": "00:00",
+    "question": "How might extended rainfall and cooler temperatures in Pune during October 2025 impact daily life and local events?"
+  },
+  {
+    "id": "q2_1",
+    "timestamp": "00:20",
+    "question": "What are the best types of light, breathable fabrics to wear for staying cool in warm and humid weather?"
+  },
+  {
+    "id": "q2_2",
+    "timestamp": "00:20",
+    "question": "How does an AQI of 120 affect outdoor activities, especially for people sensitive to air pollution?"
+  },
+  {
+    "id": "q2_3",
+    "timestamp": "00:20",
+    "question": "Why is it recommended to keep an umbrella handy even when there is cloud cover but no immediate rain?"
+  },
+  {
+    "id": "q3_1",
+    "timestamp": "00:40",
+    "question": "What are the potential health benefits of limiting strenuous outdoor activity and wearing a mask during periods of poor air quality?"
+  },
+  {
+    "id": "q3_2",
+    "timestamp": "00:40",
+    "question": "Why is it especially important for individuals with respiratory concerns to keep windows closed during peak traffic hours?"
+  },
+  {
+    "id": "q3_3",
+    "timestamp": "00:40",
+    "question": "How does staying hydrated help the body cope with humidity and poor air quality?"
+  },
+  {
+    "id": "q4_1",
+    "timestamp": "01:00",
+    "question": "How does the increase in vehicle purchases during the festive season impact traffic congestion near educational institutions like the College of Engineering in Pune?"
+  },
+  {
+    "id": "q4_2",
+    "timestamp": "01:00",
+    "question": "What strategies can commuters use to minimize delays during peak college hours, given the current traffic patterns in Pune?"
+  },
+  {
+    "id": "q4_3",
+    "timestamp": "01:00",
+    "question": "In what ways are Pune\u2019s authorities addressing the challenges posed by rising vehicle numbers and congestion, especially during periods of high commuter activity?"
+  },
+  {
+    "id": "q5_1",
+    "timestamp": "01:20",
+    "question": "How has the recent doubling of undergraduate seats in Computer Science, Electrical, and Civil Engineering at COEP impacted campus life and student facilities?"
+  },
+  {
+    "id": "q5_2",
+    "timestamp": "01:20",
+    "question": "What precautions should students take when commuting to COEP, given the expectation of busier roads and public transport?"
+  },
+  {
+    "id": "q5_3",
+    "timestamp": "01:20",
+    "question": "In what ways might high occupancy and increased student numbers affect hostel availability and accommodation at COEP?"
+  },
+  {
+    "id": "q6_1",
+    "timestamp": "01:40",
+    "question": "How can students minimize wait times in queues at the cafeteria and library, especially with increased campus intake?"
+  },
+  {
+    "id": "q6_2",
+    "timestamp": "01:40",
+    "question": "What strategies can students use to effectively book group project or lab slots to avoid scheduling conflicts?"
+  },
+  {
+    "id": "q6_3",
+    "timestamp": "01:40",
+    "question": "How does advance planning and calendar management help students balance resource access and academic commitments?"
+  },
+  {
+    "id": "q7_1",
+    "timestamp": "02:00",
+    "question": "How can you effectively balance coursework in Artificial Intelligence and Machine Learning with team meetings for a robotics project, especially given the university\u2019s new, more diverse student intake?"
+  },
+  {
+    "id": "q7_2",
+    "timestamp": "02:00",
+    "question": "What strategies can help maximize networking opportunities with classmates from diverse backgrounds in AI and Machine Learning classes?"
+  },
+  {
+    "id": "q7_3",
+    "timestamp": "02:00",
+    "question": "How should you prioritize tasks and structure your study schedule to ensure both academic success and progress on your robotics project?"
+  },
+  {
+    "id": "q8_1",
+    "timestamp": "02:20",
+    "question": "How will the training of 300 ASHA workers by the Pune Municipal Corporation impact malaria detection and control efforts in the city?"
+  },
+  {
+    "id": "q8_2",
+    "timestamp": "02:20",
+    "question": "What are the reasons behind the recent increase in marigold flower prices mentioned in the local news update?"
+  },
+  {
+    "id": "q8_3",
+    "timestamp": "02:20",
+    "question": "How does the rollback of the Diwali fare hike by MSRTC benefit daily commuters in Pune?"
+  },
+  {
+    "id": "q9_1",
+    "timestamp": "02:40",
+    "question": "What special arrangements are being made in parks for Kojagiri Pournima this year, and how might the extended hours enhance the festival experience?"
+  },
+  {
+    "id": "q9_2",
+    "timestamp": "02:40",
+    "question": "Given the recent rise in cybercrime and crimes against women, what safety precautions should festival-goers consider while celebrating Kojagiri Pournima both online and in public spaces?"
+  },
+  {
+    "id": "q9_3",
+    "timestamp": "02:40",
+    "question": "What significant changes are currently happening at COEP regarding undergraduate seats, and how might these impact prospective students?"
+  },
+  {
+    "id": "q10_1",
+    "timestamp": "03:00",
+    "question": "How has the renaming of the Robotics program to Artificial Intelligence and Machine Learning impacted the curriculum and student opportunities at the university?"
+  },
+  {
+    "id": "q10_2",
+    "timestamp": "03:00",
+    "question": "What are the expected benefits of the university\u2019s new partnership with Neilsoft for industry collaboration and student placements?"
+  },
+  {
+    "id": "q10_3",
+    "timestamp": "03:00",
+    "question": "What significance does the unveiling of the Sir M Visvesvaraya statue and hosting ISRO hold for the university\u2019s reputation and its Foundation Day celebrations?"
+  },
+  {
+    "id": "q11_1",
+    "timestamp": "03:20",
+    "question": "How does COEP foster student engagement and innovation through its events and student clubs?"
+  },
+  {
+    "id": "q11_2",
+    "timestamp": "03:20",
+    "question": "What role do scientists and faculty play in promoting student engagement and industry relevance at COEP?"
+  },
+  {
+    "id": "q11_3",
+    "timestamp": "03:20",
+    "question": "What practical lifestyle and productivity tips were shared in the podcast to help students maintain energy and focus during academic events?"
+  },
+  {
+    "id": "q12_1",
+    "timestamp": "03:40",
+    "question": "How does maintaining ergonomic posture during long study sessions impact cognitive performance and focus?"
+  },
+  {
+    "id": "q12_2",
+    "timestamp": "03:40",
+    "question": "What are the benefits of incorporating the Pomodoro technique into a study routine, and how can it enhance productivity?"
+  },
+  {
+    "id": "q12_3",
+    "timestamp": "03:40",
+    "question": "How often should students take movement breaks during extended study periods to prevent physical strain and maintain concentration?"
+  },
+  {
+    "id": "q13_1",
+    "timestamp": "04:00",
+    "question": "How can setting one clear goal for each study block improve motivation and help manage complex assignments?"
+  },
+  {
+    "id": "q13_2",
+    "timestamp": "04:00",
+    "question": "What strategies can students use to make their progress measurable when preparing for exams or project deadlines?"
+  },
+  {
+    "id": "q13_3",
+    "timestamp": "04:00",
+    "question": "Why is it important to break down study sessions into specific tasks, such as finishing a coding module or reviewing lecture notes?"
+  },
+  {
+    "id": "q14_1",
+    "timestamp": "04:20",
+    "question": "How does today's warm and cloudy weather, along with moderate air quality, impact daily life and activities on the COEP campus?"
+  },
+  {
+    "id": "q14_2",
+    "timestamp": "04:20",
+    "question": "What are some notable events or happenings in Pune and at COEP that students should be aware of today?"
+  },
+  {
+    "id": "q14_3",
+    "timestamp": "04:20",
+    "question": "Why is dedicating one focused hour to a priority task recommended as the actionable priority for the day, and how can students best implement this advice?"
+  },
+  {
+    "id": "q15_1",
+    "timestamp": "04:40",
+    "question": "What are the key steps and best practices for successfully executing a robotics project from planning to completion?"
+  },
+  {
+    "id": "q15_2",
+    "timestamp": "04:40",
+    "question": "How can you identify and leverage each team member\u2019s unique strengths to maximize collaboration and performance in a robotics or AI-focused project?"
+  },
+  {
+    "id": "q15_3",
+    "timestamp": "04:40",
+    "question": "In what ways does the new AI curriculum support the development of essential skills for robotics projects, and how can teams best integrate this knowledge into their workflow?"
+  }
+]

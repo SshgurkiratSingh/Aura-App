@@ -1,0 +1,60 @@
+{
+  "user_preferences": {
+    "name": "User",
+    "tone": "Sherlock-like analytical and precise",
+    "interests": [
+      "LLM",
+      "electronics",
+      "PCB",
+      "VLSI"
+    ],
+    "medical_history": {
+      "past": [
+        "asthmatic"
+      ],
+      "current": [
+        "vitamin D deficient at 17.1 ng/mL"
+      ]
+    },
+    "occupation": "Electronics Engineer",
+    "study_focus": "VLSI Design"
+  },
+  "weather_info": {
+    "temperature": 24,
+    "feels_like": 22,
+    "humidity": 65,
+    "conditions": "partly cloudy",
+    "air_quality_index": 95,
+    "air_quality_category": "moderate",
+    "uv_index": 6,
+    "wind_speed": 12,
+    "visibility": 8,
+    "pressure": 1013,
+    "sunrise": "06:15 AM",
+    "sunset": "06:45 PM"
+  },
+  "home_location": "Kharar, Punjab, India",
+  "work_location": "IT Park, Chandigarh, India",
+  "news": {
+    "interests": "Interest news unavailable.",
+    "home_location": "Home location news unavailable.",
+    "work_location": "Work location news unavailable."
+  },
+  "extra": {
+    "calendar_events": [
+      {
+        "time": "09:00 AM",
+        "title": "VLSI Design Review"
+      },
+      {
+        "time": "02:00 PM",
+        "title": "PCB Layout Meeting"
+      },
+      {
+        "time": "05:00 PM",
+        "title": "LLM Research Discussion"
+      }
+    ],
+    "parking_availability": "good"
+  }
+}

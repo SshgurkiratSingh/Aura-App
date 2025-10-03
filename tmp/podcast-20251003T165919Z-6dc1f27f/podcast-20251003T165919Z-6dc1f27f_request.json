@@ -1,0 +1,25 @@
+{
+  "user_preferences": {
+    "name": "Dr. Sarah",
+    "tone": "professional and informative",
+    "occupation": "Physician",
+    "medical_history": {
+      "interests": [
+        "cardiology",
+        "preventive care"
+      ]
+    }
+  },
+  "weather_info": {
+    "temperature": 18,
+    "humidity": 60,
+    "conditions": "rainy",
+    "air_quality_index": 40
+  },
+  "home_location": "Boston, MA",
+  "work_location": "Massachusetts General Hospital",
+  "news": {
+    "error": "News unavailable at this time."
+  },
+  "extra": {}
+}
